@@ -114,4 +114,3 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
   }, 3000);
 </script>
 
-<?php include "includes/temp/footer.php"; ?>

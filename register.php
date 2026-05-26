@@ -46,7 +46,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
 }
 ?>
 
-<div class="container mt-3 pt-3">
+<div class="container mt-5 pt-3">
   <div class="row">
     <div class="col-md-5 m-auto">
       <div class="card shadow p-4 ">
@@ -100,4 +100,3 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
   }, 3000);
 </script>
 
-<?php include("includes/temp/footer.php"); ?>
